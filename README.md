@@ -21,3 +21,5 @@
 Переместить измененные файлы из staged в local: `git commit -m "v0.1"`
 
 Переместить файлы из local в remote: `git push -u origin main` 
+
+Получить обновления из remote в local: `git pull origin <ветка>`

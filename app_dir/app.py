@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, redirect, session, g, jsonify
-from db import *
+from .db import *
 import os
 import secrets
 from dotenv import load_dotenv
