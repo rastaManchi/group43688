@@ -16,3 +16,8 @@
 
 Указать локальную ветку: `git branch -M "main"`
 
+Переместить измененные файлы в поле staged: `git add .`\
+
+Переместить измененные файлы из staged в local: `git commit -m "v0.1"`
+
+Переместить файлы из local в remote: `git push -u origin main` 
